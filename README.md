@@ -18,10 +18,6 @@ A simple and elegant multilingual translation web application that allows users 
 
 ---
 
-##  Demo
-
-![Translator App Screenshot](https://your-screenshot-link.com) <!-- Optional: Replace or remove -->
-
 ---
 
 ##  Tech Stack
@@ -35,14 +31,23 @@ A simple and elegant multilingual translation web application that allows users 
 ##  Project Structure
 
  language-translator/
+
 ├── index.html
+
 ├── style.css
+
 ├── script/
+
 │ ├── script.js
+
 │ └── languages.js
+
 ├── images/
+
 │ ├── sun.png
+
 │ └── moon.png
+
 └── README.md
 
 yaml
