@@ -17,6 +17,8 @@ A simple and elegant multilingual translation web application that allows users 
 -  **Responsive UI** for all screen sizes
 
 ---
+# Demo
+![image](https://github.com/user-attachments/assets/70579f3b-150c-4f85-a49a-84dcd82e7507)
 
 ---
 
@@ -65,4 +67,12 @@ Edit
 
 2.**Open in Browser**
   Simply open index.html in your browser.
+
+
+## Output
+
+![image](https://github.com/user-attachments/assets/63f1c96a-9e60-4af5-8c37-3684f9ebea96)
+
+![image](https://github.com/user-attachments/assets/afe2edaf-61be-408d-95e6-c3f295b45df9)
+  
 
